@@ -1,4 +1,3 @@
-# Cybersecurity-Task2-Phishing-mail
 # 🛡️ Cybersecurity Internship Task 2 – Phishing Email Analysis
 
 ## 🎯 Objective
@@ -61,10 +60,10 @@ Repo includes all required files and analysis report.
 
 ## 🙋‍♂️ Author
 
-- **Name:** Vinay  
+- **Name:**Pusarla Vinay  
 - **Internship:** Cybersecurity Virtual Internship  
 - **Task:** 2 – Phishing Email Analysis  
-- **Date:** [Replace with your date]
+- **Date:** 05/08/2025
 
 ---
 
