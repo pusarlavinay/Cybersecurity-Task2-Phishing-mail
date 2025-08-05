@@ -1,0 +1,19 @@
+From: support@paypail.com  
+To: nikuenduku390@gmail.com
+Subject: Immediate Action Required – Account Suspension Notice  
+
+Dear Customer,
+
+We have detected unusual login activity on your PayPail account from an unrecognized device.  
+As a precaution, we have temporarily suspended your account to protect your financial data.
+
+To restore access and avoid permanent suspension, please verify your identity by clicking the link below:
+
+🔒 Click here to verify your account:  
+http://paypail-verification-secure.com/login
+
+This verification must be completed within 24 hours, or your account will be permanently restricted as per our user agreement.
+
+Thank you for being a valued PayPail user.  
+PayPail Account Security Team  
+support@paypail.com

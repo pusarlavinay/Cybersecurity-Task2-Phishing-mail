@@ -1,0 +1,43 @@
+📄 Phishing Email Analysis Report
+📧 Email Subject
+Urgent: Your Account Has Been Suspended
+
+📬 Sender Email
+support@paypail.com
+
+Why it’s suspicious:
+
+The domain paypail.com is a misspelled version of the real domain paypal.com (extra “i”).
+
+This is a classic typo-squatting technique used to fool users who aren’t paying close attention.
+
+Legitimate emails from PayPal come from domains like @paypal.com only.
+
+🚩 Red Flags Detected
+Spoofed or fake domain name — paypail.com is not an official PayPal domain.
+
+Urgency and threat-based language — uses fear to push action:
+"Your account will be suspended unless verified within 24 hours."
+
+Suspicious/mismatched link — link text may look like a PayPal login, but hovers to a malicious site.
+
+e.g., http://paypal-login-authentication.com/login
+
+Generic greeting — “Dear Customer” instead of your actual name.
+
+Spelling and grammar issues — poor formatting and odd sentence structures.
+
+Fake security alert — pretending to be about account safety to increase panic.
+
+No digital signature or DKIM verification — lacks authentication.
+
+🔗 Fake / Mismatched Links
+Visible Link Text: Click here to verify your account
+
+Actual Link (on hover): http://paypal-login-authentication.com/login
+
+This link is not owned by PayPal and redirects users to a fake login page.
+
+🔐 Conclusion: Why This is a Phishing Email
+The email is designed to impersonate PayPal using a domain that closely resembles the original (paypail.com). It leverages urgency, impersonation, and fake links to trick users into providing sensitive information.
+This email shows all the classic signs of phishing and poses a serious security risk if the user clicks the link or enters login credentials.
