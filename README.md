@@ -12,15 +12,14 @@ Analyze a phishing email to identify characteristics that indicate it is a phish
 - Manual inspection of email contents
 - Free email header analyzers (optional)
   - https://mxtoolbox.com/EmailHeaders.aspx
-  - https://toolbox.googleapps.com/apps/messageheader/
 
 ---
 
 ## 📧 Sample Email Analyzed
 
 **Subject:** Urgent: Your Account Has Been Suspended  
-**Sender:** `security-update@paypal.com`  
-**Link:** `http://paypal-verification-secure.com/login`  
+**Sender:** `support@paypail.com`  
+**Link:** `http://paypail-verification-secure.com/login`  
 
 ---
 
@@ -39,6 +38,8 @@ Analyze a phishing email to identify characteristics that indicate it is a phish
 
 - `phishing_email.txt` – Sample phishing email used
 - `phishing_analysis_report.md` – Detailed analysis of phishing red flags
+- `MX tool box` - Screenshot of a mail using tool
+
 - `README.md` – Documentation of the task and outcome
 
 ---
@@ -61,10 +62,10 @@ Repo includes all required files and analysis report.
 
 ## 🙋‍♂️ Author
 
-- **Name:** Vinay  
+- **Name:**  Pusarla Vinay  
 - **Internship:** Cybersecurity Virtual Internship  
 - **Task:** 2 – Phishing Email Analysis  
-- **Date:** [Replace with your date]
+- **Date:** 05/08/2025
 
 ---
 
